@@ -87,14 +87,7 @@ header{
     margin-left: 5px;
     
 }
-.delete:hover{
-    background-color: black;
-    color: #fff;
-}
-.delete:hover img{
-   
-    color: #fff;
-}
+
 .delete img{
     width: 10px;
     height: 100%;

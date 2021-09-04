@@ -33,5 +33,12 @@
     .show{
         display: flex;
     }
+    .delete:hover{
+        background-color: black;
+        color: #fff;
+    }
+    .delete:hover img{
+        color: #fff;
+    }
 
 }
