@@ -39,6 +39,7 @@ header{
     margin: 0 auto;
     width: 90%;
     flex-direction: column;
+ 
 }
 
 .filters{
@@ -47,18 +48,19 @@ header{
     height: auto;
     justify-content: space-between;
     margin: 0 auto;
-    padding: 15px;
+    padding: 20px;
     position: absolute;
-    top: 165px;
+    top: 145px;
     width: 82%;
     background-color: #fff;
     box-shadow: 0px 0px 10px #5ba4a4;
+    margin-bottom: 16px;
    
     
 }
 #filter-picked{
     width: 99%;
-    height: 40px;
+    height: auto;
     display: flex;
     align-items: center;
     justify-content: space-around;
@@ -246,13 +248,14 @@ header{
 .social-media{
     width: 80%;
     display: flex;
-    justify-content: space-evenly;
+    justify-content: center;
     padding-bottom: 5px;
     padding-top: 8px;
 }
 .social-media img{
-    width: 18px;
-    height: 18px;
+    width: 25px;
+    height: 25px;
+    margin-right: 20px;
 }
 
     
