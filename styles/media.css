@@ -40,5 +40,28 @@
     .delete:hover img{
         color: #fff;
     }
+    .footer{
+        height: 8%;
+
+    }
+    .footer p{
+        font-size: 12px;
+
+    }
+    .social-media{
+        width: 80%;
+        display: flex;
+        justify-content: center;
+        padding-bottom: 5px;
+    
+    }
+    .social-media img{
+        width: 25px;
+        height: 25px;
+        padding-bottom: 4px;
+    
+    }
+    
+    
 
 }
