@@ -1,0 +1,37 @@
+@media screen and (min-width:950px) {
+    
+    .skills{
+        display: flex;
+        width: 50%;
+        height: 100%;
+        margin: 0px;
+        justify-content: space-around;
+    }
+    .job{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+       
+    }
+    .job-js
+    {
+        width: 40%;
+    }
+    .skills{
+        width: 45%;
+    }
+    .logo{
+        width: 50px;
+        height: 50px;
+        position: absolute;
+        top: 50px;
+        left: 2%;
+    }
+    .none{
+        display: none;
+    }
+    .show{
+        display: flex;
+    }
+
+}
